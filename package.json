@@ -1,10 +1,9 @@
 {
   "name": "@mistjs/lodash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "union lodash and lodash-es",
-  "main": "./index.cjs",
-  "types": "index.d.ts",
-  "module": "./index.mjs",
+  "main": "./index.js",
+  "types": "./index.d.ts",
   "type": "module",
   "publishConfig": {
     "access": "public",
