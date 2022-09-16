@@ -1,6 +1,6 @@
 {
   "name": "@mistjs/lodash",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "union lodash and lodash-es",
   "main": "index.js",
   "types": "index.d.ts",
@@ -25,6 +25,7 @@
   "author": "aibayanyu",
   "license": "MIT",
   "dependencies": {
+    "@types/lodash": "^4.14.185",
     "@types/lodash-es": "^4.17.6",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21"
